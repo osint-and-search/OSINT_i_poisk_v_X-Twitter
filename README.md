@@ -60,4 +60,4 @@ Twitter (X) в большей степени отражает мысли и по
 
 Вся информация предоставляется «как есть» и направлена на повышение уровня осведомлённости о безопасности и рисках в цифровой среде.
 
-[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/probiv_i_OSINT_instrumenti)
+[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/poiskovie_i_OSINT_instrumenti)
